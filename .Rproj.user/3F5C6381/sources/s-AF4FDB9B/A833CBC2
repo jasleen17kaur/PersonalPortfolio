@@ -3,7 +3,7 @@
     "path": "C:/Users/jasle/Box Sync/PersonalPortfolio/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "1935822690",
+    "hash": "2438435676",
     "contents": "",
     "dirty": false,
     "created": 1616453104388.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "12,42",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1616453090,
+    "lastKnownWriteTime": 1616455239,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1616453090,
+    "last_content_update": 1616455239975,
     "read_only": false,
     "read_only_alternatives": []
 }
