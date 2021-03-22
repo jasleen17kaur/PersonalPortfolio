@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-22T18:52:31-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nMy name is Jasleen and I want to be able to meet my peers again.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-22T18:52:33-04:00"
+    }
+  ],
+  "collections": []
+}
