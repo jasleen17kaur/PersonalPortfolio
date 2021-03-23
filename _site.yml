@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Caste and Infant Mortality"
-      href: Kaur_Jasleen_WritingSample.pdf
+    - text: "CV"
+      href: Kaur_Jasleen_CV.pdf
 
 output: distill::distill_article
